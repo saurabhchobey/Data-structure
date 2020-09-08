@@ -37,7 +37,7 @@ void display(){
 	cout<<endl;
 }
 void insert(int val,int po){
-	node* n=new node;
+	node* n = new node;
 	n->data=val;
 	n->next=NULL;
 	node* temp=head;
