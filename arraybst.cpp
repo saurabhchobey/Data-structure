@@ -71,6 +71,7 @@ int x;
 cin>>x;
      int result=bst(a,0,size,x);
      cout<<result;
+	cout<<"dot";
 
 
 return 0;
