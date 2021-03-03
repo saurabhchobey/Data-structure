@@ -39,7 +39,7 @@ int main(){
 	insert(3);
 	insert(9);
 	insert(5);
-	insert(2);
+	
 	display();
 	
 	return 0;
